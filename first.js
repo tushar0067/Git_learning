@@ -9,3 +9,5 @@ console.log(login);
 const payment="Added a payment module"
 console.log(payment);
 
+const upi="added a upi"
+console.log(upi);
