@@ -11,3 +11,6 @@ console.log(payment);
 
 const upi="added a upi"
 console.log(upi);
+
+//bug fix
+console.log("Bug is fixed by me");
